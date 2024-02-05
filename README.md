@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Aqaar Easy](Classified)
 
-- 🌱 I’m currently learning **Typescript, Redux, SQLite, mango.db, swiftUI, Flutter...**
+- 🌱 I’m currently learning **React, React Native, Redux, mango.db, Flutter...**
 
 - 👯 I’m looking to collaborate on **AI projects**
 
