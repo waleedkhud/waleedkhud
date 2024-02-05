@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Node.js & python**
 
-- 👨‍💻 All of my projects are available at [https://uxfol.io/cdee8c70](https://uxfol.io/cdee8c70)
+- 👨‍💻 Portfolio: [https://uxfol.io/cdee8c70](https://uxfol.io/cdee8c70)
 
 - 📝 I regularly write articles on [https://medium.com/@waleedkhud](https://medium.com/@waleedkhud)
 
